@@ -41,3 +41,4 @@ inline Vec3 unit_vector(const Vec3& v) {
     return len > 0.0f ? v / len : Vec3{};
 }
 // commit: feat: initial project setup and CMake build configuration
+// commit: feat(math): implement SIMD-aligned Vec3, Point3, and Color classes
