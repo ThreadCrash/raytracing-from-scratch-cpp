@@ -43,3 +43,4 @@ inline Vec3 unit_vector(const Vec3& v) {
 // commit: feat: initial project setup and CMake build configuration
 // commit: feat(math): implement SIMD-aligned Vec3, Point3, and Color classes
 // commit: feat(ray): add core Ray geometry definition and parametric interpolation
+// commit: feat(hittable): introduce abstract Hittable and Sphere analytic intersection
