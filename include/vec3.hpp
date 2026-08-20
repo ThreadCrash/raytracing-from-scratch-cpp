@@ -45,3 +45,4 @@ inline Vec3 unit_vector(const Vec3& v) {
 // commit: feat(ray): add core Ray geometry definition and parametric interpolation
 // commit: feat(hittable): introduce abstract Hittable and Sphere analytic intersection
 // commit: feat(materials): add Lambertian diffuse and Metal specular reflection with fuzz
+// commit: feat(bvh): implement Axis-Aligned Bounding Box (AABB) slab intersection test
