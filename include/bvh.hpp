@@ -10,3 +10,5 @@
 // update 5: fix(dielectric): handle total internal reflection edge case at critical angle [2026-08-17T17:21:00+03:00]
 
 // update 6: chore(benchmark): add automated headless rendering speed test harness [2026-08-21T12:23:00+03:00]
+
+// update 7: feat(texture): support procedural checkerboard and spherical UV coordinate mapping [2026-08-25T14:36:00+03:00]
