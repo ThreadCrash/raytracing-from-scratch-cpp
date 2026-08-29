@@ -12,3 +12,5 @@
 // update 6: chore(benchmark): add automated headless rendering speed test harness [2026-08-21T12:23:00+03:00]
 
 // update 7: feat(texture): support procedural checkerboard and spherical UV coordinate mapping [2026-08-25T14:36:00+03:00]
+
+// update 8: perf(memory): eliminate heap allocation inside inner ray scatter loop [2026-08-29T15:16:00+03:00]
