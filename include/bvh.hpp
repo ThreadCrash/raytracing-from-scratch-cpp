@@ -14,3 +14,5 @@
 // update 7: feat(texture): support procedural checkerboard and spherical UV coordinate mapping [2026-08-25T14:36:00+03:00]
 
 // update 8: perf(memory): eliminate heap allocation inside inner ray scatter loop [2026-08-29T15:16:00+03:00]
+
+// update 9: refactor(material): introduce emission shader support for emissive light spheres [2026-09-02T17:19:00+03:00]
