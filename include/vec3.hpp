@@ -46,3 +46,4 @@ inline Vec3 unit_vector(const Vec3& v) {
 // commit: feat(hittable): introduce abstract Hittable and Sphere analytic intersection
 // commit: feat(materials): add Lambertian diffuse and Metal specular reflection with fuzz
 // commit: feat(bvh): implement Axis-Aligned Bounding Box (AABB) slab intersection test
+// commit: perf(multithreading): implement tile-based worker dispatch with std::jthread
