@@ -16,3 +16,5 @@
 // update 8: perf(memory): eliminate heap allocation inside inner ray scatter loop [2026-08-29T15:16:00+03:00]
 
 // update 9: refactor(material): introduce emission shader support for emissive light spheres [2026-09-02T17:19:00+03:00]
+
+// update 10: docs: add visual benchmark chart comparing single-thread vs 16-thread scaling [2026-09-06T13:16:00+03:00]
